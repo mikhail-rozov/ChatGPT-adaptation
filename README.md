@@ -1,4 +1,8 @@
 ### <ins>Адаптация ChatGPT для предоставления информации из ГОСТ 33259-2015</ins>  
+
+Tables preparation notebook (creating MySQL Database from Excel tables) - [data_prep_tables.ipynb](data_prep_tables.ipynb)  
+Text preparation notebook (chunking text and pushing embeddings to ChromaDB) - [data_prep_text.ipynb](data_prep_text.ipynb)  
+Main project code (Langchain chains) - [project.ipynb](project.ipynb)
    
 #### <ins>Небольшая демонстрация работы бота в телеграме и примеры запросов.</ins>  
   

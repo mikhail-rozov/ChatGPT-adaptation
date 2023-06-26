@@ -1,0 +1,7 @@
+data/
+templates/
+venv/
+telegram_bot.py
+.env
+.idea/
+.ipynb_checkpoints/
